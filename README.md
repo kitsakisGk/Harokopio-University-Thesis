@@ -223,7 +223,7 @@ If you use this work, please cite:
 
 ```
 Kitsakis, G. (2023). Smartphone Activity Recognition using Deep Learning.
-Master's Thesis, Harokopio University of Athens.
+Bachelor's Thesis, Harokopio University of Athens.
 ```
 
 ## Contact
