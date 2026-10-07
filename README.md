@@ -235,4 +235,4 @@ Bachelor's Thesis, Harokopio University of Athens.
 
 ---
 
-**Master's Thesis Project - Demonstrating expertise in Deep Learning and Time Series Analysis**
+**Bachelor's Thesis Project - Demonstrating expertise in Deep Learning and Time Series Analysis**
